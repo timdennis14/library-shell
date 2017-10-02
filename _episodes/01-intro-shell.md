@@ -30,9 +30,9 @@ This session will cover a small number of basic commands using Git Bash for Wind
 Terminal for Mac OS, and the shell for Linux users. These commands constitute building blocks upon which more
 complex commands can be constructed to fit your data or project.
 <!-- Mention native Bash in Windows 10 -->
-Even if you do not do your own programming or your work currently does not involve the command line, knowing some basics about the shell can be useful.
+Even if you do not do your own programming or your work currently does not involve the command line, knowing some basics about the shell will be useful.
 
-The shell is one of the most productive programming environments ever created. Once mastered, you can use it to experiment with different commands interactively, then use what you have learned to automate your work. Graphical user interfaces may be better at the first, but the shell is still unbeaten at the second.
+The shell is one of the most productive programming  environments ever created. Once mastered, you can use it to experiment with different commands interactively, then use what you have learned to automate your work. Graphical user interfaces may be better at the first, but the shell is still unbeaten at the second.
 
 *Note to Lesson Instructor: consider providing an example here of how you've used the Unix shell to solve a problem in the last week or month*
 
